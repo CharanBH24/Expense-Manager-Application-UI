@@ -1,16 +1,7 @@
-# expense_planner
+# Expense Planner Application UI
 
 A new Flutter project.
 
-## Getting Started
+<img width="435" alt="Screenshot 2021-08-25 at 8 09 43 PM" src="https://user-images.githubusercontent.com/62739964/130811662-417debb4-c9a3-4ee4-a73e-bee3afff145a.png">
+<img width="437" alt="Screenshot 2021-08-25 at 8 11 03 PM" src="https://user-images.githubusercontent.com/62739964/130811700-cc965fa3-e6c1-4087-b78f-67c3d60c0720.png">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
